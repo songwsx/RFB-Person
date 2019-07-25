@@ -12,3 +12,9 @@ https://github.com/ruinmessi/RFBNet
 与RFB不同的是：
 - pytorch 1.0
 - tensorboardX
+
+# 实现效果
+与RFB不同的是：
+- 只进行行人检测
+- 增加了训练可视化
+- 增加了测试的demo
