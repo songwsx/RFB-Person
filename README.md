@@ -19,6 +19,6 @@ https://github.com/ruinmessi/RFBNet
 - 增加了训练可视化
 - 增加了测试的demo
 
-# 预训练模型链接
+# RFB300 预训练模型链接
 链接：https://pan.baidu.com/s/1OB37tkFgWhlUkdS08fn7fw 
 提取码：94r4 
